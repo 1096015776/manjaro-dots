@@ -1,0 +1,47 @@
+{
+   "choiceCustom": {
+      "message": "自定义"
+   },
+   "choiceGreen": {
+      "message": "豆沙绿"
+   },
+   "choiceGrey": {
+      "message": "浅灰色"
+   },
+   "choiceOlive": {
+      "message": "橄榄绿"
+   },
+   "choiceOptions": {
+      "message": "*设置*"
+   },
+   "choiceOrign": {
+      "message": "原本色"
+   },
+   "choiceYellow": {
+      "message": "乡土黄"
+   },
+   "customColor": {
+      "message": "自定义背景颜色："
+   },
+   "enableAtNewTab": {
+      "message": "在新标签页默认开启？"
+   },
+   "enableCustomColor": {
+      "message": "开启自定义背景色？"
+   },
+   "extensionDescription": {
+      "message": "这个扩展会将网页背景中刺眼的白色替换为橄榄绿、乡土黄、豆沙绿以及浅灰色，防止由于长时间专注网页造成的眼睛不适，保护视力"
+   },
+   "extensionName": {
+      "message": "护眼扩展"
+   },
+   "noCustomColorError": {
+      "message": "你没有在扩展设置页面中开启自定义颜色！"
+   },
+   "notification": {
+      "message": "注意"
+   },
+   "shieldLabel": {
+      "message": "屏蔽网址列表："
+   }
+}

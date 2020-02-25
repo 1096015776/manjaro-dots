@@ -1,0 +1,12 @@
+{
+  "autoupdate": true,
+  "enableCapture": true,
+  "enableFlicker": true,
+  "keymap": {
+    "shortcut-capture": [
+      "Control",
+      "Alt",
+      "A"
+    ]
+  }
+}

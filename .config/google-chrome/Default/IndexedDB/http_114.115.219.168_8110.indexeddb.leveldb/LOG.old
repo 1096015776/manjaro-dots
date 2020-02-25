@@ -1,0 +1,6 @@
+2019/12/10-15:39:27.509 2081 Reusing MANIFEST /home/fx/.config/google-chrome/Default/IndexedDB/http_114.115.219.168_8110.indexeddb.leveldb/MANIFEST-000001
+2019/12/10-15:39:27.509 2081 Recovering log #4
+2019/12/10-15:39:27.525 2081 Reusing old log /home/fx/.config/google-chrome/Default/IndexedDB/http_114.115.219.168_8110.indexeddb.leveldb/000004.log 
+2019/12/11-11:36:54.143 296e Level-0 table #8: started
+2019/12/11-11:36:54.195 296e Level-0 table #8: 3293185 bytes OK
+2019/12/11-11:36:54.201 296e Delete type=0 #4

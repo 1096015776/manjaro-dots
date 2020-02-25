@@ -1,0 +1,47 @@
+{
+   "choiceCustom": {
+      "message": "custom"
+   },
+   "choiceGreen": {
+      "message": "green"
+   },
+   "choiceGrey": {
+      "message": "grey"
+   },
+   "choiceOlive": {
+      "message": "olive"
+   },
+   "choiceOptions": {
+      "message": "options"
+   },
+   "choiceOrign": {
+      "message": "orign"
+   },
+   "choiceYellow": {
+      "message": "yellow"
+   },
+   "customColor": {
+      "message": "Custom Color:"
+   },
+   "enableAtNewTab": {
+      "message": "Enable at new Tab by default?"
+   },
+   "enableCustomColor": {
+      "message": "Enable Custom Color?"
+   },
+   "extensionDescription": {
+      "message": "Addon for protecting your eyes by changing background color from lighting white to eye friendly color(green, yellow, olive, grey"
+   },
+   "extensionName": {
+      "message": "Protect Eye"
+   },
+   "noCustomColorError": {
+      "message": "You have not enabled custom color in addon setting pages"
+   },
+   "notification": {
+      "message": "notification"
+   },
+   "shieldLabel": {
+      "message": "Shield Web Sites: "
+   }
+}

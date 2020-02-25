@@ -1,0 +1,29 @@
+{
+   "choiceGreen": {
+      "message": "豆沙綠"
+   },
+   "choiceGrey": {
+      "message": "淺灰色"
+   },
+   "choiceOlive": {
+      "message": "橄欖綠"
+   },
+   "choiceOrign": {
+      "message": "原本色"
+   },
+   "choiceYellow": {
+      "message": "鄉土黃"
+   },
+   "enableAtNewTab": {
+      "message": "在新標籤頁默認開啟？"
+   },
+   "extensionDescription": {
+      "message": "這個擴展會將網頁背景中刺眼的白色替換為橄欖綠、鄉土黃、豆沙綠以及淺灰色，防止由於長時間專注網頁造成的眼睛不適，保護視力"
+   },
+   "extensionName": {
+      "message": "護眼擴展"
+   },
+   "shieldLabel": {
+      "message": "屏蔽網址列表："
+   }
+}

@@ -1,0 +1,57 @@
+.apps-view {
+    display: flex; height: 100%;
+
+    .categories-box {
+        height: 100%; overflow: auto;
+
+        .category {
+            display: flex; align-items: center; padding: 10px 10px 10px 20px; margin-bottom: 5px;
+            transition: all .3s; cursor: pointer; user-select: none;
+
+            .category-title {}
+
+            &:hover { background: #ebebeb; }
+            &.a { background: #f8ebb6; }
+        }
+    }
+
+    .right-part {
+        padding: 40px 0; display: flex; flex-wrap: wrap; align-content: flex-start;
+    }
+
+    .apps-item {
+        width: 20%; text-align: center; color: $text-color; margin-bottom: 30px;
+        user-select: none; position: relative;
+
+        .app-icon {
+            display: inline-block; width: 60px; height: 60px; margin-bottom: 10px;
+            background-size: contain; background-position: center; background-repeat: no-repeat;
+            border-radius: 20%;
+        }
+        .app-title { font-size: 12px; margin-bottom: 10px; }
+        .icon {
+            position: absolute; top: -10px; right: 30px; width: 16px; height: 16px;
+        }
+        .icon { opacity: 0; }
+        .icon-pin2-a { transform: rotate(-45deg) }
+
+        &:hover {
+            transition: all .3s; opacity: .8; cursor: pointer;
+            .icon { opacity: 1; }
+        }
+    }
+
+    .empty-text { text-align: center; width: 100%; }
+
+    @media (min-width: 1400px) {
+        .apps-item { width: 16.6666%; }
+    }
+    @media (min-width: 1800px) {
+        .apps-item { width: 12.5%; }
+    }
+    @media (min-width: 2400px) {
+        .apps-item { width: 10%; }
+    }
+}
+
+

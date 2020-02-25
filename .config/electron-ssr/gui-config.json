@@ -1,0 +1,32 @@
+{
+	"configs": [],
+	"index": 0,
+	"enable": true,
+	"autoLaunch": false,
+	"shareOverLan": false,
+	"localPort": 1080,
+	"ssrPath": "/home/fx/.config/electron-ssr/shadowsocksr/shadowsocks",
+	"pacPort": 2333,
+	"sysProxyMode": 0,
+	"serverSubscribes": [],
+	"httpProxyEnable": true,
+	"globalShortcuts": {
+		"toggleWindow": {
+			"key": "Ctrl+Shift+W",
+			"enable": true
+		},
+		"switchSystemProxy": {
+			"key": "",
+			"enable": false
+		}
+	},
+	"windowShortcuts": {
+		"toggleMenu": {
+			"key": "Ctrl+Shift+B",
+			"enable": true
+		}
+	},
+	"httpProxyPort": 12333,
+	"autoUpdateSubscribes": true,
+	"subscribeUpdateInterval": 24
+}

@@ -1,0 +1,30 @@
+[2020-02-23 14:56:19.376] [exthost] [info] extension host started
+[2020-02-23 14:56:19.400] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-23 14:56:19.400] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-02-23 14:56:19.405] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-23 14:56:19.405] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-02-23 14:56:19.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-02-23 14:56:19.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-02-23 14:56:19.455] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-23 14:56:19.456] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-02-23 14:56:19.459] [exthost] [info] eager extensions activated
+[2020-02-23 14:56:25.528] [exthost] [info] ExtensionService#_doActivateExtension shengchen.vscode-leetcode {"startup":false,"extensionId":{"value":"shengchen.vscode-leetcode","_lower":"shengchen.vscode-leetcode"},"activationEvent":"onView:leetCodeExplorer"}
+[2020-02-23 14:56:25.528] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fx/.vscode-oss/extensions/shengchen.vscode-leetcode-0.16.0/out/src/extension
+[2020-02-23 14:56:48.349] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:jsonc"}
+[2020-02-23 14:56:48.349] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/configuration-editing/dist/extension
+[2020-02-23 14:56:48.401] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-02-23 14:56:48.401] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/json-language-features/client/dist/jsonMain
+[2020-02-23 14:56:48.459] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features {"startup":false,"extensionId":{"value":"vscode.typescript-language-features","_lower":"vscode.typescript-language-features"},"activationEvent":"onLanguage:jsonc"}
+[2020-02-23 14:56:48.459] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/typescript-language-features/dist/extension
+[2020-02-23 14:57:32.826] [exthost] [info] extension host started
+[2020-02-23 14:57:32.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-23 14:57:32.844] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-02-23 14:57:32.846] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-23 14:57:32.846] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-02-23 14:57:32.861] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-02-23 14:57:32.861] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-02-23 14:57:32.880] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-23 14:57:32.880] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-02-23 14:57:32.883] [exthost] [info] eager extensions activated
+[2020-02-23 14:57:35.483] [exthost] [info] ExtensionService#_doActivateExtension shengchen.vscode-leetcode {"startup":false,"extensionId":{"value":"shengchen.vscode-leetcode","_lower":"shengchen.vscode-leetcode"},"activationEvent":"onView:leetCodeExplorer"}
+[2020-02-23 14:57:35.483] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fx/.vscode-oss/extensions/shengchen.vscode-leetcode-0.16.0/out/src/extension

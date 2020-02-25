@@ -1,0 +1,27 @@
+.apps-settings-view {
+    padding: 40px 0; display: flex; flex-wrap: wrap;
+
+    label.apps-item {
+        width: 11.1%; text-align: center; color: $text-color; margin-bottom: 30px;
+        user-select: none;
+
+        &:hover { transition: all .3s; opacity: .8; cursor: pointer; }
+    }
+    .app-icon {
+        display: inline-block; width: 60px; height: 60px; margin-bottom: 10px;
+        background-size: contain; background-position: center; background-repeat: no-repeat;
+    }
+    .app-title { font-size: 12px; margin-bottom: 10px; }
+    .check-state {
+        display: inline-flex; align-items: center; justify-content: center;
+        border-radius: 50%; width: 20px; height: 20px;
+        .icon { width: 12px; height: 12px; }
+    }
+    .app-check {display: none; background: #0dc97b;}
+    .app-uncheck {display: inline-flex; background: #d3d3d3;}
+    input { display: none; }
+    input:checked ~ {
+        .app-check { display: inline-flex; }
+        .app-uncheck { display: none; }
+    }
+}

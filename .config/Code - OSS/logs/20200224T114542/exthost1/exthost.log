@@ -1,0 +1,12 @@
+[2020-02-24 11:45:44.922] [exthost] [info] extension host started
+[2020-02-24 11:45:45.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-02-24 11:45:45.027] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/debug-auto-launch/dist/extension
+[2020-02-24 11:45:45.034] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-02-24 11:45:45.034] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/emmet/dist/extension
+[2020-02-24 11:45:45.055] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-02-24 11:45:45.055] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/git/dist/main
+[2020-02-24 11:45:45.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-02-24 11:45:45.082] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code/extensions/merge-conflict/dist/extension
+[2020-02-24 11:45:45.087] [exthost] [info] eager extensions activated
+[2020-02-24 11:46:39.103] [exthost] [info] ExtensionService#_doActivateExtension shengchen.vscode-leetcode {"startup":false,"extensionId":{"value":"shengchen.vscode-leetcode","_lower":"shengchen.vscode-leetcode"},"activationEvent":"onView:leetCodeExplorer"}
+[2020-02-24 11:46:39.103] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/fx/.vscode-oss/extensions/shengchen.vscode-leetcode-0.16.0/out/src/extension

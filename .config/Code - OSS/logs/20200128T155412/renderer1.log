@@ -1,0 +1,2 @@
+[2020-01-28 15:54:14.577] [renderer1] [error] Error: [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/fx/下载/1/2'
+[2020-01-28 15:54:14.577] [renderer1] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/fx/下载/1/2'

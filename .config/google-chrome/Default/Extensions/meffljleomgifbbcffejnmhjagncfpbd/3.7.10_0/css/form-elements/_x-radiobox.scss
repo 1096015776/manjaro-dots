@@ -1,0 +1,14 @@
+.x-radio {
+    display: flex; align-items: center; user-select: none;
+    input { display: none; }
+    .x-radio-box {
+        width: 16px; height: 16px; border: 2px solid #1973e8; border-radius: 50%;
+        display: flex; align-items: center; justify-content: center; margin-right: 10px;
+    }
+    input:checked ~ .x-radio-box:after {
+        content: ''; display: block; width: 8px; height: 8px; background: #1973e8; border-radius: 50%;
+    }
+    .x-radio-title { font-size: 13px; }
+
+    &:hover { transition: all .3s; opacity: .8; cursor: pointer; }
+}

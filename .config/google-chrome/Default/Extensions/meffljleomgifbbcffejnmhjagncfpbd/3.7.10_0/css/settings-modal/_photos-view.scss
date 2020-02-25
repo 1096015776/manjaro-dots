@@ -1,0 +1,13 @@
+.photos-view {
+    .wp-search {
+        display: flex; align-items: center;
+        background: $wp-input-bg; border: 1px solid $wp-input-bd;
+        margin-bottom: 20px;
+
+        .icon-search { width: 34px; height: 14px; }
+        input {
+            width: 100%; height: 30px; line-height: 30px; padding: 0 10px;
+            border: none; background-color: transparent; color: $wp-search-color;
+        }
+    }
+}

@@ -1,0 +1,6 @@
+2019/12/10-13:06:08.624 62a Recovering log #28
+2019/12/10-13:06:08.625 62a Level-0 table #30: started
+2019/12/10-13:06:08.632 62a Level-0 table #30: 1111 bytes OK
+2019/12/10-13:06:08.638 62a Delete type=0 #28
+2019/12/10-13:06:08.638 62a Delete type=3 #27
+2019/12/10-13:06:08.642 634 Moved #11 to level-1 631 bytes OK: files[ 3 1 0 0 0 0 0 ]

@@ -1,0 +1,26 @@
+Nov 17 10:26 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 10:26 : exception: Failed to open '/home/fx/.config/mpd/state': No such file or directory
+Nov 17 10:26 : exception: Failed to access /home/fx/Music: No such file or directory
+Nov 17 10:26 : avahi: Service 'Music Player @ fx-pc' successfully established.
+Nov 17 10:33 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 10:33 : avahi: Service 'Music Player @ fx-pc' successfully established.
+Nov 17 10:35 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 10:35 : avahi: Service 'Music Player @ fx-pc' successfully established.
+Nov 17 10:39 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 10:39 : avahi: Service 'Music Player @ fx-pc' successfully established.
+Nov 17 10:43 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 10:43 : avahi: Service 'Music Player @ fx-pc' successfully established.
+Nov 17 10:44 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 10:44 : avahi: Service 'Music Player @ fx-pc' successfully established.
+Nov 17 10:51 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 10:51 : avahi: Service 'Music Player @ fx-pc' successfully established.
+Nov 17 10:51 : client: [0] opened from 127.0.0.1:51680
+Nov 17 10:52 : client: [1] opened from 127.0.0.1:51698
+Nov 17 10:54 : client: [0] closed
+Nov 17 11:01 : client: [2] opened from 127.0.0.1:52820
+Nov 17 11:02 : exception: RTIOThread could not get realtime scheduling, continuing anyway: sched_setscheduler failed: Operation not permitted
+Nov 17 11:02 : client: [0] opened from 127.0.0.1:53050
+Nov 17 11:02 : avahi: Service 'Music Player @ fx-pc' successfully established.
+Nov 17 11:02 : client: [1] opened from 127.0.0.1:53052
+Nov 17 11:03 : client: [0] closed
+Nov 17 11:24 : client: [1] closed

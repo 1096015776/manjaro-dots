@@ -1,0 +1,20 @@
+.search-bar {
+    $w: 600px;
+    $h: 45px;
+
+    display: flex; align-items: center; background: rgba(255,255,255,.8);
+    margin-bottom: 40px;
+
+    .icon { width: $h; height: 20px; }
+    input {
+        width: $w - $h; height: $h; line-height: $h; padding: 0 5px;
+        border: none; background-color: transparent; font-size: 14px;
+    }
+
+    &.rounded-searchbar { border-radius: $h; }
+    &.dark {
+        background: rgba(0,0,0,.5);
+
+        input { color: #fff; }
+    }
+}

@@ -1,0 +1,40 @@
+html, body {
+    width: 72px;
+}
+
+.page-choice {
+    width: 100%;
+    padding: 4px;
+    font-size: 1.5em;
+    text-align: left;
+    cursor: pointer;
+}
+
+#olive:hover{
+    background-color: #E1E6D7;
+}
+
+#grey:hover{
+    background-color: #F2F2F2;
+}
+
+#yellow:hover{
+    background-color: #F6F4EC;
+}
+
+#green:hover{
+    background-color: #CCE8CF;
+}
+
+#orign:hover{
+    background-color: #008000;
+}
+
+#custom:hover{
+    background-color: rgb(205, 221, 55);
+}
+
+
+#options:hover{
+    background-color: rgb(221, 135, 55);
+}

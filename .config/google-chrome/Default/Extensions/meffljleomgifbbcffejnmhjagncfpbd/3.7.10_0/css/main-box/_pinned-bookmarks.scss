@@ -1,0 +1,43 @@
+.pinned-bookmarks-box {
+    width: 600px; position: relative; overflow: hidden;
+
+    .pinned-bookmarks-item {
+        width: 120px; height: 120px; border-radius: 4px; transition: all .3s; padding: 10px 5px 0;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        position: relative; user-select: none;
+
+        .pinned-bookmarks-img {
+            width: 70px; height: 70px; border-radius: 24%; background: #fff;
+            background-position: center; background-size: cover; background-repeat: no-repeat;
+            display: flex; align-items: center; justify-content: center;
+            margin-bottom: 10px;
+        }
+        .pinned-bookmarks-title {
+            width: 100%; overflow: hidden; text-overflow: ellipsis; padding: 0 5px;
+            white-space: nowrap; color: $bookmark-title-color; font-size: 12px; text-decoration: none;
+            text-align: center;
+        }
+
+        .icon {
+            display: none;
+            position: absolute; top: 2px; right: 2px; z-index: 10;
+            opacity: .7; width: 16px; height: 16px;
+        }
+
+        &:hover {
+            background: rgba(255, 255, 255, .3); cursor: pointer;
+
+            .icon { display: block; }
+        }
+
+        &.google-service, &.messenger  {
+            .pinned-bookmarks-img { background-size: 70%;}
+        }
+    }
+
+    .slide { width: 600px; height: 240px; display: flex; flex-wrap: wrap; }
+
+    &.light {
+        .pinned-bookmarks-title { color: #fff; }
+    }
+}

@@ -1,0 +1,549 @@
+e9f6e9a261def5508e96727559fc7de2|file:///home/fx/fx|6|1|V|
+	9	4	异常	2	0客户不承担，1客户承担
+1102bda3be24213749a76e1b49345bb2|file:///home/fx/fx|10|4|^v|
+	4
+	4
+	4
+fa8d33cbcc3abf40e1c30e7a6a005cb1|file:///home/fx/fx|9|6|^v|
+	异常
+	异常
+	异常
+	异常
+cf1156dab5d4842c8228fefd66009fc1|file:///home/fx/fx|9|27|^v|
+	0客户不承担，1客户承担
+	0客户不承担，1客户承担
+	0客户不承担，1客户承担
+	0客户不承担，1客户承担
+6cbd0541c686d07afabe534f6764bc3d|file:///home/fx/fx|11|27|v|
+	发票抬头
+2320cc311e948c73c192f8b63d1ffab1|file:///home/fx/fx|1|1|v|
+	27948
+454d44430401338f71d4c73820d1c94c|file:///home/fx/python/helloworld.py|1|1|V|python
+	print("hello,world")
+	print("你好，世界")
+	print('hello','world',sep=',',end='!')
+	print('goodbye, world',end='!\n')
+140609b9cbed2833d183841c20ff2a08|file:///home/fx/python/helloworld.py|1|1|V|python
+	import turtle
+ef3f1743091a797dfc780fbf9ee82b5c|file:///home/fx/python/helloworld.py|1|1|V|python
+	turtle.pensize(4)
+11f8033dc0f409980dfcaedb7cb33c52|file:///home/fx/.i3/config|24|9|v|conf
+	llontrols+alt+a
+f8a0b96c313f809b1d4438daa2dd6587|file:///home/fx/python/helloworld.py|1|1|V|python
+	import turtle
+	
+	turtle.pensize(11)
+	turtle.pencolor('blue')
+	
+	turtle.forward(100)
+	turtle.right(90)
+	turtle.forward(100)
+	turtle.right(90)
+	turtle.forward(100)
+	# turtle.right(90)
+	# turtle.forward(100)
+	
+	turtle.mainloop()
+3d83273761b17dc72513ff4e31e41792|file:///home/fx/python/helloworld.py|1|1|V|python
+	print('hello,world!')
+	#print('你好，世界!')
+	print('hello','world')
+	print('hello','world',sep=',',end='!')
+	print('goodbye,world',end='!')
+ef4cfc10d6a6f1215c7635847396fe61|file:///home/fx/python/Day1-15/day2.py|10|1|V|python
+	a=100
+	b=12.345
+	c=1+5j
+	d='hello,world'
+	e=True
+	
+	print(type(a))
+	print(type(b))
+	print(type(c))
+	print(type(d))
+	print(type(e))
+e8afaa43554c06aef9ff7ee4e4e9e06f|file:///home/fx/python/Python-100-Days/Day01-15/02.%E8%AF%AD%E8%A8%80%E5%85%83%E7%B4%A0.md|100|1|V|markdown
+	a = int(input('a = '))
+	b = int(input('b = '))
+	print('%d + %d = %d' % (a, b, a + b))
+	print('%d - %d = %d' % (a, b, a - b))
+	print('%d * %d = %d' % (a, b, a * b))
+	print('%d / %d = %f' % (a, b, a / b))
+	print('%d // %d = %d' % (a, b, a // b))
+	print('%d %% %d = %d' % (a, b, a % b))
+	print('%d ** %d = %d' % (a, b, a ** b))
+b60514c010f96308671cf8b3e5c4ad48|file:///home/fx/python/Day1-15/day2.py|31|1|V|python
+	a = int(input('a = '))
+	print(a)
+124efd9371f40eec0c8f06297e47e94f|file:///home/fx/python/Day1-15/day2.py|24|1|V|python
+	print('%d + %d = %d' % (a, b, a + b))
+	print('%d - %d = %d' % (a, b, a - b))
+	print('%d * %d = %d' % (a, b, a * b))
+	print('%d / %d = %f' % (a, b, a / b))
+	print('%d // %d = %d' % (a, b, a // b))
+	print('%d %% %d = %d' % (a, b, a % b))
+	print('%d ** %d = %d' % (a, b, a ** b))
+1fbb89477c848decb94c05dfaccd33c9|file:///home/fx/%E4%B8%8B%E8%BD%BD/fx|1|1|V|
+	XQS1932SJZYZ049
+00218223c9b771335558a121ebfdff43|file:///home/fx/%E4%B8%8B%E8%BD%BD/fx|3|1|V|
+	ZGXU2680837
+180ab525aff84d579892c72fab2c2990|file:///home/fx/%E4%B8%8B%E8%BD%BD/fx|2|1|V|
+	ZPL1927SQDGJ171/ZGXU6272324
+4e8f75bc18606b496be6d9a0627deec5|file:///home/fx/python/Python-100-Days/Day01-15/03.%E5%88%86%E6%94%AF%E7%BB%93%E6%9E%84.md|46|1|V|markdown
+	x = float(input('x = '))
+	if x > 1:
+	    y = 3 * x - 5
+	elif x >= -1:
+	    y = x + 2
+	else:
+	    y = 5 * x + 3
+	print('f(%.2f) = %.2f' % (x, y))
+825ca7e410c7800afef8cbefef83416a|file:///home/fx/python/Day1-15/day3.py|7|1|V|python
+	x=float(input('x ='))
+	if x>1 :
+	    a=3*x-5
+	elif x<=1 and x>=-1:
+	    a=x+2
+	else:
+	    a=5*x+3
+	print('fx = ',a)
+4d2f8c105dead16b5cda7372b6d45f54|file:///home/fx/python/Day1-15/day5.py|6|19|v|python
+	end:'\n'
+edd141071b9b78cd95c7bbec5a1250aa|file:///home/fx/python/Day1-15/day5.py|12|30|v|python
+	num,
+ad5a249343db66d92e23b6d38252c4bb|file:///home/fx/python/Day1-15/day5.py|15|1|V|python
+	print(x)
+9d053586deee0b3179821e8626a616ee|file:///home/fx/python/Day1-15/day5.py|14|1|V|python
+	for x in range(0,20):
+af2b2fcadb0be7ec4186bb95e18c5cc5|file:///home/fx/python/Day1-15/day5.py|14|5|V|python
+	    print(x)
+fee65ddba4d76a5ec2cc7bbb6429b5a5|file:///home/fx/python/Day1-15/day4.py|1|9|V|python
+	for math import sqrt
+	num = int(input('请输入一个整数：'))
+	end = int
+b326b5062b2f0e69046810717534cb09|file:///home/fx/python/Day1-15/day4.py|4|12|v|python
+	true
+4c6d47d93ea02b7dc6228dd0b0edd15c|file:///home/fx/python/Python-100-Days/Day01-15/04.%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md|127|1|V|markdown
+	输入一个正整数判断它是不是素数
+898abfa26a27b0bb01fa59e321d7cd82|file:///home/fx/python/Python-100-Days/Day01-15/04.%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md|148|6|v|markdown
+	练习2：输入两个正整数，计算它们的最大公约数和最小公倍数。
+	
+	
+6c90584745f7133a91bbfe7070886b14|file:///home/fx/python/Python-100-Days/Day01-15/04.%E5%BE%AA%E7%8E%AF%E7%BB%93%E6%9E%84.md|175|1|V|markdown
+	#### 练习3：打印如下所示的三角形图案。
+de1a5e0e502bb1e12cd19973191b68ae|file:///home/fx/python/Day1-15/day4.py|28|7|v|python
+	int(input('请输入打印行数:'))
+c00f608b81a024996fe7fee5953415a2|file:///home/fx/python/Day1-15/day4.py|30|5|v|python
+	print('*')
+2aaf5c1d95a8e99d77b4af7f2e606c26|file:///home/fx/python/Day1-15/day4.py|34|24|v|python
+	1,i+1
+0a68dd96ea00960e72108b59b7ea7cf4|file:///home/fx/python/Day1-15/day4.py|33|1|V|python
+	    for i in range(1,num+1):
+	        for j in range(1,i):
+	            print(' ',end='')
+	        print(*)
+24b5c5ee791773fe6d7937c0dd00c13b|file:///home/fx/python/Python-100-Days/Day01-15/05.%E6%9E%84%E9%80%A0%E7%A8%8B%E5%BA%8F%E9%80%BB%E8%BE%91.md|81|1|V|markdown
+	   from random import randint
+	   
+	   money = 1000
+	   while money > 0:
+	       print('你的总资产为:', money)
+	       needs_go_on = False
+	       while True:
+	           debt = int(input('请下注: '))
+	           if 0 < debt <= money:
+	               break
+	       first = randint(1, 6) + randint(1, 6)
+	       print('玩家摇出了%d点' % first)
+	       if first == 7 or first == 11:
+	           print('玩家胜!')
+	           money += debt
+	       elif first == 2 or first == 3 or first == 12:
+	           print('庄家胜!')
+	           money -= debt
+	       else:
+	           needs_go_on = True
+	       while needs_go_on:
+	           needs_go_on = False
+	           current = randint(1, 6) + randint(1, 6)
+	           print('玩家摇出了%d点' % current)
+	           if current == 7:
+	               print('庄家胜')
+	               money -= debt
+	           elif current == first:
+	               print('玩家胜')
+	               money += debt
+	           else:
+	               needs_go_on = True
+	   print('你破产了, 游戏结束!')
+d2a8f833e96d264368d1a02c1b8b96cc|file:///home/fx/python/Day1-15/day5.py|14|1|V|python
+	for x in range(0,20):
+	    print(x)
+4f8875ff6ece2eefac211ffe228f25a0|file:///home/fx/python/Python-100-Days/Day01-15/06.%E5%87%BD%E6%95%B0%E5%92%8C%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%BF%E7%94%A8.md|102|1|V|markdown
+	def add(*args):
+	    total = 0
+	    for val in args:
+	        total += val
+	    return total
+32cfeca5d1ba4e20012728093d056f58|file:///home/fx/python/Day1-15/day6.py|1|1|V|python
+	
+	def add(*args):
+	    total = 0
+	    for val in args:
+	        total += val
+	    return total
+	print(add(1,3,5,7))
+ac4af55c3bb05dfd7dd20b6a20280ed0|file:///home/fx/python/Day1-15/day6.py|2|1|V|python
+	def add(*args):
+	    total = 0
+	    for val in args:
+	        total += val
+	    return total
+	print(add(1,3,5,7))
+b90b61afe2a9602173ae01ca8a90a769|file:///home/fx/python/Day1-15/day6.py|2|5|v|python
+	int(input('m = '))
+a69502cbc663373851a910b776fda911|file:///home/fx/python/Day1-15/day6.py|3|5|v|python
+	int(input('n = '))
+9529d81dc07341924aaa87f04a08b483|file:///home/fx/python/Day1-15/day6.py|10|1|V|python
+	print(fm)
+	print(fn)
+394db435cae4da0f7db70293822ccbb2|file:///home/fx/python/Python-100-Days/Day01-15/06.%E5%87%BD%E6%95%B0%E5%92%8C%E6%A8%A1%E5%9D%97%E7%9A%84%E4%BD%BF%E7%94%A8.md|21|1|V|markdown
+	m = int(input('m = '))
+	n = int(input('n = '))
+	fm = 1
+	for num in range(1, m + 1):
+	    fm *= num
+	fn = 1
+	for num in range(1, n + 1):
+	    fn *= num
+	fmn = 1
+	for num in range(1, m - n + 1):
+	    fmn *= num
+	print(fm // fn // fmn)
+dfc2ef03bb4e958e1227dab8075c54f7|file:///home/fx/python/Day1-15/day6.py|1|1|V|python
+	#计算c(m,n)
+	m = 5
+	n = 3
+	fm = 1
+	for num in range(1,m+1):
+	    fm*=num
+	fn = 1
+	for num in range(1,n+1):
+	    fn*=num
+8ff3e5f5659dcaca79033edaf11276a6|file:///home/fx/python/Day1-15/day6.py|2|1|v|python
+	int(input('n = '))
+	
+7c4f29f53a34741697c8f02a7cb69af2|file:///home/fx/python/Day1-15/day6.py|13|1|V|python
+	print(10//5//2)
+ce3f372a94d179db0a781f6d6df6f98c|file:///home/fx/fx.md|2|1|v|markdown
+	<++>
+a0ff6c7fd234b4a81d8682fd6a9b0e2e|file:///home/fx/quession|1|1|V|
+	派车时间：
+1741e959c7dce1806369d2a1645f0d55|file:///home/fx/quession|1|1|V|
+	运输日期：
+	飞单价格：
+4fef694afa6217fd91f40319678eafa5|file:///home/fx/fx.md|6|2|V|markdown
+	 从约货表出发，筛出该运单的约货计划信息，从计划筛出该运单的费用信息
+aebc629b9ca9fff11f12c1e0d3920709|file:///home/fx/fx.md|10|1|V|markdown
+	 
+	 <++>
+	 <++>
+e47d48f321cd5a084804fc2ad1c7c6fb|file:///home/fx/fx.md|9|7|v|markdown
+	根据箱子信息筛选出订单信息
+5fad5ac8f18042f65fb9d2486976d862|file:///home/fx/fx.md|6|2|^v|markdown
+	##
+	##
+	##
+	##
+	##
+936db27a24b3052adaf60fc67288eb7b|file:///home/fx/fx.md|6|2|^v|markdown
+	 
+	 
+	 
+	 
+	 
+9adcb166bad34e210b4033503a770d31|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.json|108|38|v|json
+	https:
+6b23ffc03a59a287a46f180e3e004b4f|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.jsonc|7|32|v|
+	应付总合计
+68dfb5a6db46e39a0e9bb5c6d6103bcb|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.jsonc|20|51|v|
+	//客户全称
+01cb10c8177d338ea823411efe1b63ad|file:///home/fx/record|9|1|V|
+	115 transportFeeid 
+	116 trailerNumberId
+3c395ddbf50bcfc02f894aeadcafc818|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.jsonc|100|45|v|
+	//费用名称
+8c57b7c351a9d81895622feaa548251d|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.jsonc|102|50|v|
+	//收款方
+bc9f45d992a0a275ea9c90019f1ed3e5|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.jsonc|112|42|v|
+	//费用说明
+45d0c3fa64a28cf043e5e3fb3cd58d81|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.jsonc|103|39|v|
+	//是否和司机结算
+190061fa6fa8e534bdddf6eda7707f91|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.jsonc|104|43|v|
+	//待确认收入
+1a4dab9de02b49fdefe49435daa7c6d2|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.jsonc|115|42|v|
+	//运费id
+51889a4ca031644f2af875ca2fd371a2|file:///home/fx/%E4%B8%8B%E8%BD%BD/data.jsonc|116|45|v|
+	//运单id
+d856d631339828ebc2bde0f037fdaafe|file:///home/fx/record|6|1|V|
+	-----------------------------------------------------
+ee1f3fde93e535ee398e51cb3072b93d|file:///home/fx/Projects/back-end/src/main/java/com/feixiang56/platform/transport/vo/GetAllFeeInTrailerNumberVO.java|787|1|V|java
+	//                private String doorArea;
+b3e65288599e2da569b3f3d9e3d36e6f|file:///home/fx/Projects/back-end/src/main/java/com/feixiang56/platform/transport/vo/GetAllFeeInTrailerNumberVO.java|787|1|V|java
+	//                public String getDoorArea() {
+15fe8ae309806cec24da123fe55512ac|file:///home/fx/Projects/back-end/src/main/java/com/feixiang56/platform/transport/vo/GetAllFeeInTrailerNumberVO.java|787|1|V|java
+	//                    return doorArea;
+c0e2b734551699a8b7cfca887a4ac564|file:///home/fx/Projects/back-end/src/main/java/com/feixiang56/platform/transport/vo/GetAllFeeInTrailerNumberVO.java|787|1|V|java
+	//                }
+3e34340cdd94f5c45cd644c896841b1a|file:///home/fx/Projects/back-end/src/main/java/com/feixiang56/platform/transport/vo/GetAllFeeInTrailerNumberVO.java|787|1|V|java
+	//                public void setDoorArea(String doorArea) {
+884e850f6f14c3a1c3e8c261f518c13d|file:///home/fx/Projects/back-end/src/main/java/com/feixiang56/platform/transport/vo/GetAllFeeInTrailerNumberVO.java|787|1|V|java
+	//                    this.doorArea = doorArea;
+c0e2b734551699a8b7cfca887a4ac564|file:///home/fx/Projects/back-end/src/main/java/com/feixiang56/platform/transport/vo/GetAllFeeInTrailerNumberVO.java|787|1|V|java
+	//                }
+f9af520c664ff5f3ac2a311d00f925e9|file:///home/fx/fx|2|1|v|
+	/trailerNumber/
+80f04a83dee902e6c73f894f3a4fe0f8|file:///home/fx/fx|2|1|^v|
+	/trailerNumber/
+	/trailerNumber/
+1b9e943e451121459801382cd1e0e9b7|file:///home/fx/python/Day1-15/day7.py|1|6|V|python
+	s1 = r'\'hello,world!\''
+	print(s1)
+e27d8bd55eec6b3b5f91f3d256ce109f|file:///home/fx/python/Day1-15/day7.py|1|1|V|python
+	s1 = 'hello ' *3
+	print(s1)
+	s2 = 'world'
+	s1 +=s2
+	print(s1)
+	print('ll' in s1)
+3be3e2896c302022cd849b9d79519c1a|file:///home/fx/python/Day1-15/day7.py|1|1|V|python
+	str2 = 'abc123456'
+	print(str2[2])
+	print(str2[2:5])
+adb115059e28d960fa8badfac5516667|file:///home/fx/python/Day1-15/day7.py|8|12|v|python
+	center
+5ecb48b9510b3f95117e4716c420d8a7|file:///home/fx/python/Python-100-Days/Day01-15/07.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md|100|1|V|markdown
+	str3 = '  jackfrued@126.com '
+65b616601c8f5d6bd0e9bf6520c04e96|file:///home/fx/python/Python-100-Days/Day01-15/07.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md|101|1|V|markdown
+	print(str3)
+93f958f45da241adfd860c05e01231c0|file:///home/fx/python/Day1-15/day7.py|1|1|V|python
+	
+	str1 = 'hello, world!'
+	print(len(str1))
+	print(str1.capitalize())
+	print(str1.title())
+	print(str1.find('or'))
+	print(str1.find('shit'))
+	print(str1.rjust(15,'r'))
+70d591d54005dceabba6661610833e25|file:///home/fx/python/Python-100-Days/Day01-15/07.%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%92%8C%E5%B8%B8%E7%94%A8%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md|103|1|V|markdown
+	print(str3.strip())
+82e833737b2e3d1d735223c3a57728ba|file:///home/fx/python/Day1-15/day7.py|1|1|V|python
+	str3 = '  jackfrued@126.com '
+	print(str3)
+	print(str3.strip())
+18b80e1988b9f6364c270cfcd13ad29c|file:///home/fx/python/Day1-15/day7.py|1|1|V|python
+	list1 = [1,3,5,7,100]
+	print(list1)
+2001555f69ff268a82a75bf129c68968|file:///home/fx/fx.json|3|17|v|json
+	sunwanchun
+dc62979f9774f52bfa5503ec48d25e06|file:///home/fx/fx.json|5|18|v|json
+	2019-11-29T13:52:08.000+0800
+46d73a920067c1441bc26c6192d888a8|file:///home/fx/fx.json|3|5|v|json
+	creatorName
+43cb96ba3cc3b413498c4db9b4d089e3|file:///home/fx/fx.json|4|5|v|json
+	creationUser
+8799ecf12f308b9267e84384f8c130bf|file:///home/fx/fx.json|5|5|v|json
+	creationTime
+67daf92c833c41c95db874e18fcb2786|file:///home/fx/fx.json|9|5|v|json
+	description
+d6bd3e0a012be31eec8fb77ff567fb36|file:///home/fx/fx.json|10|5|v|json
+	operationType
+e496b3a34dde8b2dcdbd2bb30f44abef|file:///home/fx/fx|11|1|V|
+	        private BigDecimal totalReceive;
+	        @ApiModelProperty("待确认应付合计")
+04421ba4285186b99a34f2979b166de2|file:///home/fx/%E9%A2%9D%E5%A4%96%E8%B4%B9%E7%94%A8%E5%8E%86%E5%8F%B2%E5%A4%84%E7%90%86.sql|1|1|V|sql
+	create
+	    definer =root@`%` procedure fee_template_history_extrafee()
+	    begin
+	        declare i_creation_time varchar(200);
+	        declare i_creation_user varchar(200);
+	        declare i_creation_name varchar(200);
+	        declare i_disabled varchar(200);
+	        declare i_remark varchar(200);
+	        declare i_update_time varchar(200);
+	        declare i_updater_id varchar(200);
+	        declare i_updater_name varchar(200);
+	        declare i_area_id varchar(200);
+	        declare i_invoice_customer varchar(200);
+	        declare i_param_type varchar(200);
+	        declare i_price varchar(200);
+	        declare i_price_type int default 3;
+	        declare i_start_using varchar(200);
+	        declare i_type varchar(200);
+	        declare i_pay_to_driver varchar(200);
+	        declare i int default 1;
+	        declare fee_template_secondary_i int default 1;
+	        -- 定义游标
+	        declare get_update_label_data cursor
+	            for
+	            select extra_fee_template.creation_time,extra_fee_template.apply_user_id,extra_fee_template.apply_user_name,extra_fee_template.disabled,extra_fee_template.remarks,extra_fee_template.update_time,extra_fee_template.apply_user_id,
+	                   extra_fee_template.apply_user_name,extra_fee_template.area_id,extra_fee_template.payee_company,extra_fee_param.fee_name,price,freeze,type,pay_to_driver from extra_fee_template left join extra_fee_param on param_id = extra_fee_param.id;
+	        select max(id) into i from fee_template;
+	        select max(id) into fee_template_secondary_i from fee_template_secondary;
+	        -- 打开游标
+	        open get_update_label_data;
+	        updateLabel:loop
+	            set i=i+1;
+	            set fee_template_secondary_i = fee_template_secondary_i+1;
+	            fetch get_update_label_data into i_creation_time,i_creation_user,i_creation_name,i_disabled,i_remark,i_update_time,i_updater_id,i_updater_name,
+	                i_area_id,i_invoice_customer,i_param_type,i_price,i_start_using,i_type,i_pay_to_driver;
+	            insert into `fee_template`(`id`,`creation_time`,`creation_user`,`creator_name`,`disabled`,`remark`,`update_time`,`updater_id`,`updater_name`
+	            ,`area_id`,`invoice_customer`,`param_type`,`price`,`price_type`,`start_using`,`type`)
+	            values (i,i_creation_time,i_creation_user,i_creation_name,i_disabled,i_remark,i_creation_time,i_updater_id,i_updater_name
+	            ,i_area_id,i_invoice_customer,i_param_type,i_price,i_price_type,i_start_using,i_type);
+	            insert into `fee_template_secondary`(`id`,`fee_kind`,`fee_template_id`,`fee_type`,`fee_value`)
+	            values (fee_template_secondary_i,'payToDriver',i,i_price_type,i_pay_to_driver);
+	        end loop;
+	        close get_update_label_data;
+	    end;
+	drop procedure if exists fee_template_history_extrafee;
+	select * from fee_template_secondary where fee_type=3;
+	create
+	    definer =root@`%` procedure fee_template_history_extrafee()
+	    begin
+	        declare i_creation_time varchar(200);
+	        declare i_creation_user varchar(200);
+	        declare i_creation_name varchar(200);
+	        declare i_disabled varchar(200);
+	        declare i_remark varchar(200);
+	        declare i_update_time varchar(200);
+	        declare i_updater_id varchar(200);
+	        declare i_updater_name varchar(200);
+	        declare i_area_id varchar(200);
+	        declare i_invoice_customer varchar(200);
+	        declare i_param_type varchar(200);
+	        declare i_price varchar(200);
+	        declare i_price_type int default 3;
+	        declare i_start_using varchar(200);
+	        declare i_type varchar(200);
+	        declare i_pay_to_driver varchar(200);
+	        declare i int default 1;
+	        declare fee_template_secondary_i int default 1;
+	        -- 定义游标
+	        declare get_update_label_data cursor
+	            for
+	            select extra_fee_template.creation_time,extra_fee_template.apply_user_id,extra_fee_template.apply_user_name,extra_fee_template.disabled,extra_fee_template.remarks,extra_fee_template.update_time,extra_fee_template.apply_user_id,
+	                   extra_fee_template.apply_user_name,extra_fee_template.area_id,extra_fee_template.payee_company,extra_fee_param.fee_name,price,freeze,type,pay_to_driver from extra_fee_template left join extra_fee_param on param_id = extra_fee_param.id;
+	        select max(id) into i from fee_template;
+	        select max(id) into fee_template_secondary_i from fee_template_secondary;
+	        -- 打开游标
+	        open get_update_label_data;
+	        updateLabel:loop
+	            set i=i+1;
+	            set fee_template_secondary_i = fee_template_secondary_i+1;
+	            fetch get_update_label_data into i_creation_time,i_creation_user,i_creation_name,i_disabled,i_remark,i_update_time,i_updater_id,i_updater_name,
+	                i_area_id,i_invoice_customer,i_param_type,i_price,i_start_using,i_type,i_pay_to_driver;
+	            insert into `fee_template`(`id`,`creation_time`,`creation_user`,`creator_name`,`disabled`,`remark`,`update_time`,`updater_id`,`updater_name`
+	            ,`area_id`,`invoice_customer`,`param_type`,`price`,`price_type`,`start_using`,`type`)
+	            values (i,i_creation_time,i_creation_user,i_creation_name,i_disabled,i_remark,i_creation_time,i_updater_id,i_updater_name
+	            ,i_area_id,i_invoice_customer,i_param_type,i_price,i_price_type,i_start_using,i_type);
+	            insert into `fee_template_secondary`(`id`,`fee_kind`,`fee_template_id`,`fee_type`,`fee_value`)
+	            values (fee_template_secondary_i,'payToDriver',i,i_price_type,i_pay_to_driver);
+	        end loop;
+	        close get_update_label_data;
+	    end;
+	drop procedure if exists fee_template_history_extrafee;
+	select * from fee_template_secondary where fee_type=3;
+	
+4a18efa0e2a9e016382fbf501b629203|file:///home/fx/%E9%A2%9D%E5%A4%96%E8%B4%B9%E7%94%A8%E5%8E%86%E5%8F%B2%E5%A4%84%E7%90%86.sql|45|1|V|sql
+	drop procedure if exists fee_template_history_extrafee;
+	select * from fee_template_secondary where fee_type=3;
+b11ee70ca503ff7609819fda3f42f16d|file:///home/fx/python/Day1-15/day7.py|1|1|V|python
+	list1 = ['orange','apple','zoo','internationalization','blueberry']
+	list2 = sorted(list1)
+	print(list1)
+	print(list2)
+9df2d04408103c803de7dae7e2b8aaf1|file:///home/fx/python/Day1-15/day7.py|1|1|V|python
+	# list1 =['orange','apple','zoo','internationalization','blueberry']
+	# list2 = sorted(list1)
+a9b7ba70783b617e9998dc4dd82eb3c5|file:///home/fx/python/Day1-15/day7.py|11|28|v|python
+	1000
+e2c919301418183cf0afa14f0733daed|file:///home/fx/python/Day1-15/day7.py|12|1|V|python
+	print(sys.getsizeof(f))
+956d9a49f9f16a810925bbc28b5881e3|file:///home/fx/python/Day1-15/day7.py|13|1|V|python
+	print(f)
+9c9c52805e1d0b90965125d21f71ca99|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|2|1|V|markdown
+	作用：获取运力的运输能力的大致信息
+22e67cc3ae278cb47bca0058382d3330|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|3|1|V|markdown
+	{
+	
+	}
+c02e00aa57d14042addc00eeff1f6f51|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|7|16|v|markdown
+	,{"field":"area","value":"广州"}
+599dcce2998a6b40b1e38e8c6006cb0a|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|6|24|v|markdown
+	type
+b88e2627c41077ba9e8540ae04167fe8|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|7|1|V|markdown
+	              "field":"contractType","value":1,
+50d6e8812049f8dfc704ae894193da52|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|9|14|V|markdown
+	              
+14d371598cc98849978924890255603f|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|8|24|v|markdown
+	contractType
+8143e90e3f983bd786555156f29476fb|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|9|1|V|markdown
+	              "field":"phone","value":"110",
+f7a42fe7211f98ac7a60a285ac3a9e87|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|10|24|v|markdown
+	phone
+4d71d3ad6c1b2695930ebcbd1c6f7bcc|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|10|1|V|markdown
+	              "field":"carrierType","value":"双托",
+cd1aa62a3159c322a6f77641e00bee8c|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|11|24|v|markdown
+	carrierType
+067be481e0540bb4ccb65ab8910fcfc8|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|11|40|v|markdown
+	"双托"
+0be7ce71d94fb179fdd3db454a70527c|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|10|16|v|markdown
+	"field":"contractType","value":1
+4a6bffc7f769644215531c5ad4f5e7b2|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|14|15|V|markdown
+	              "field":"supplierName","value":"车队名称",
+e83607350b5daf738075eb435332995d|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|22|16|V|markdown
+	              "field":"rooler","value":3,
+a261c1acba07703833ed104a4eef65b2|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|26|16|V|markdown
+	              "field":"login","value":true
+7e318d6675a839532c8ee4bbdf2eb5b5|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|25|16|V|markdown
+	              "field":"emissionStandards","value":"国三",
+456a7a06be5c7d6e52f26dcf2c80a042|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|29|15|V|markdown
+	              }
+ba58171a0ad40b92f8b8bc24673cc2a1|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|40|12|v|markdown
+	3,4,5
+57802786c0aab2bec3269a3ceb100bf8|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|33|1|V|markdown
+	{
+	"supplierId":1
+	"supplierType":1,
+	"contractType":1,
+	"supplierName":"车队名称",
+	"fleeContact":"车队联系人",
+	"phone":"联系电话",
+	"carrierType":"承运类型（大柜)",
+	"rooler":"3,4,5",
+	"emissionStandards":"国三，国四",
+	"flowDirection":"期望流向"
+30b48e29b73e9465c50bf7aea9e7b51f|file:///home/fx/%E6%8E%A5%E5%8F%A3.md|33|1|V|markdown
+	{
+	"supplierId":1,
+	"supplierType":1,
+	"contractType":1,
+	"supplierName":"车队名称",
+	"fleeContact":"车队联系人",
+	"phone":"联系电话",
+	"carrierType":"承运类型（大柜)",
+	"rooler":"3,4,5",
+	"emissionStandards":"国三，国四",
+	"flowDirection":"期望流向"
+	}
+e17e1ea2b99705614b41a02d318e4aa7|file:///home/fx/fx|15|3|V|
+	  transportSupllierUpdat
+1b9955a834f9d8ee47b2096d34a64c9e|file:///home/fx/fx|16|50|v|
+	大柜国三四轴对应字段
+edac481df508df45652b90519ba9b804|file:///home/fx/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3|1|1|V|
+	接口 获取运力池列表信息 pust请求 /supplierController/getSupplierUpdatePondVO
+2ccd8841f4fcd5da4be169910d9faab2|file:///home/fx/%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3|1|40|v|
+	/supplierController/
+7bdd39b707ba976fb5da32907c186bbc|file:///home/fx/.i3/config|341|1|V|conf
+	## please set your primary output first. Example: 'xrandr --output eDP1 --primary'

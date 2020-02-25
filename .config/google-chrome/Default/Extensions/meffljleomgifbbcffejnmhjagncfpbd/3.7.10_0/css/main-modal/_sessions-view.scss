@@ -1,0 +1,153 @@
+.sessions-view {
+    display: flex; height: 100%; color: #959595; font-weight: 300;
+
+    .left-part {
+        height: 100%; overflow: auto;
+
+        .session-search-input {
+            width: 100%; height: 40px; padding: 0 10px;
+            background: #fff; color: #959595; margin-bottom: 10px; border: none;
+
+            &::placeholder { color: #959595; }
+        }
+        .headline { font-size: 16px; font-weight: 300; line-height: 2; margin-bottom: 5px; }
+
+        .session-item {
+            padding: 14px 20px; margin-bottom: 15px;
+            transition: all .3s; background: #ececec;
+
+            .session-textbox {
+                user-select: none;
+
+                .session-title {
+                    width: 100%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+                    margin-bottom: 8px; font-size: 14px; color: #000;
+                }
+
+                .session-foot-text {
+                    display: flex; align-items: center; justify-content: space-between;
+                }
+                .session-time { font-size: 12px;}
+                .session-counts { font-size: 12px; }
+            }
+
+            &:hover { background: #ffefaf; cursor: pointer; }
+            &.a { background: #ffefaf; }
+            &.current-session { margin-bottom: 40px; }
+        }
+    }
+    .right-part {
+        .head {
+            display: flex; align-items: center; justify-content: space-between;
+            margin-bottom: 30px;
+
+            .head-text-box {
+                .session-title { font-size: 16px; color: #000; margin-right: 20px; }
+                .session-counts { font-size: 13px; }
+            }
+            .head-btns {
+                display: flex; align-items: center;
+
+                button {
+                    background: transparent; border: none;
+                    padding: 0 10px; color: #000; font-size: 14px;
+
+                    &:hover { transition: all .3s; cursor: pointer; opacity: .7; }
+                }
+                .session-menu-box {
+                    position: relative; height: 16px; z-index: 100;
+
+                    .icon-more-v {
+                        width: 16px; height: 16px;
+                        &:hover { transition: all .3s; cursor: pointer; opacity: .7; }
+                    }
+                    .session-menu {
+                        position: absolute; right: 100%; top: 10px; background: #fff;
+                        padding: 12px 0; font-size: 12px;
+                    }
+                    .session-menu-item {
+                        padding: 6px 16px; opacity: .8; white-space: nowrap; user-select: none;
+                        &:hover { transition: all .3s; cursor: pointer; opacity: 1; }
+                    }
+                    .session-menu-line {
+                        padding: 6px 16px; height: 1px;
+                        &:after { content: ''; height: 1px; display: block; background: #ebebeb;}
+                    }
+                }
+            }
+        }
+        .body {
+            padding-left: 30px;
+
+            .window-block {
+                margin-bottom: 20px;
+
+                .window-block-head {
+                    display: flex; align-items: center; justify-content: flex-start;
+                    margin-bottom: 15px;
+
+
+                    .icon-window { margin-right: 10px; width: 14px; height: 14px; }
+                    .window-title { font-size: 12px; color: #0089fe; margin-right: 10px; }
+
+                    .window-menu-box {
+                        position: relative; height: 14px; font-size: 12px;
+
+                        .icon-more {
+                            opacity: .7; width: 14px; height: 14px;
+                            &:hover { opacity: 1; }
+                        }
+                        .window-menu {
+                            position: absolute; left: 100%; top: 10px; background: #fff;
+                            padding: 12px 0; z-index: 100;
+                        }
+                        .window-menu-item {
+                            padding: 6px 16px; white-space: nowrap; user-select: none;
+
+                            &:hover { transition: all .3s; cursor: pointer; color: #000; }
+                        }
+                        .window-menu-line {
+                            padding: 6px 16px; height: 1px;
+                            &:after { content: ''; height: 1px; display: block; background: #ebebeb;}
+                        }
+                    }
+                }
+                .window-tabs {
+                    padding-left: 10px;
+
+                    .tab-item {
+                        display: flex; margin-bottom: 5px; padding: 5px 10px 5px 20px;
+                        position: relative;
+
+                        .tab-favicon {
+                            width: 16px; height: 38px; margin-right: 10px;
+                            background-size: contain; background-position: center 4px; background-repeat: no-repeat;
+                        }
+                        .tab-title {
+                            font-size: 12px; margin-right: 5px; margin-bottom: 4px; color: #000;
+                            &:hover { text-decoration: underline; }
+                        }
+                        .tab-url {
+                            font-size: 12px; color: #0089fe;
+                            width: 90%; overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
+                        }
+                        .icon-remove {
+                            display: none;
+                            width: 10px; height: 10px; opacity: .7;
+                            position: absolute; top: 12px; left: 0;
+
+                            &:hover { opacity: 1; }
+                        }
+
+                        &:hover {
+                            cursor: pointer;
+                            .icon-remove { display: block;  }
+                        }
+
+                        &.highlight { background: #ffefaf; }
+                    }
+                }
+            }
+        }
+    }
+}

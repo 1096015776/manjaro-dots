@@ -1,0 +1,12 @@
+2019/12/15-17:46:56.308 4cb4 Recovering log #31
+2019/12/15-17:46:56.309 4cb4 Level-0 table #33: started
+2019/12/15-17:46:56.314 4cb4 Level-0 table #33: 760 bytes OK
+2019/12/15-17:46:56.320 4cb4 Delete type=3 #29
+2019/12/15-17:46:56.321 4cb4 Delete type=0 #31
+2019/12/15-17:46:56.321 4cbf Compacting 4@0 + 0@1 files
+2019/12/15-17:46:56.321 4cbf Compacted 4@0 + 0@1 files => 0 bytes
+2019/12/15-17:46:56.325 4cbf compacted to: files[ 0 1 0 0 0 0 0 ]
+2019/12/15-17:46:56.325 4cbf Delete type=2 #30
+2019/12/15-17:46:56.325 4cbf Delete type=2 #33
+2019/12/15-17:46:56.325 4cbf Delete type=2 #21
+2019/12/15-17:46:56.325 4cbf Delete type=2 #14

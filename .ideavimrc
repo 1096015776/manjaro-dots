@@ -1,0 +1,86 @@
+set hlsearch
+set incsearch
+set ignorecase
+set smartcase
+set number
+set relativenumber
+set showmode
+set scrolloff=6
+
+"clear the higlight search
+nnoremap <Space><CR> :nohlsearch<CR>
+"move half page fast
+nnoremap <Space>d <C-d>
+nnoremap <Space>u <C-u>
+map J 5j
+map K 5k
+"noremap setting
+nnoremap S :w
+nnoremap Q :q!<CR>
+"noremal mode move
+inoremap <A-h> <left>
+inoremap <A-j> <down>
+inoremap <A-k> <up>
+inoremap <A-l> <right>
+
+"fx's find
+nnoremap n nzz
+nnoremap N Nzz
+
+"Tab operation
+nnoremap <A-l> gt
+nnoremap <A-h> gT
+"Quit visiual mode
+vnoremap v <Esc>
+"Move to the start of Line
+nnoremap H ^
+"Move to the end of Line
+nnoremap L $
+"Redo
+nnoremap U <c-r>
+
+ "Window operation
+ nnoremap <Space>ww <C-W>w
+ nnoremap <Space>wd <C-W>c
+ nnoremap <Space>j <C-W>j
+ nnoremap <Space>k <C-W>k
+ nnoremap <Space>h <C-W>h
+ nnoremap <Space>l <C-W>l
+ nnoremap <Space>w= <C-W>=
+ nnoremap <Space>ws <C-W>s
+ nnoremap <Space>w- <C-W>s
+ nnoremap <Space>wv <C-W>v
+ nnoremap <Space>w\| <C-W>v
+"idea
+
+" but preserve ideavim search
+ nnoremap <Space>/ :action Find<CR>
+ 
+" <++>命令相关快捷键
+" git命令相关快捷键
+ nnoremap <Space>gc :action CheckinProject<CR>
+ nnoremap <Space>gp :action Vcs.Push<CR>
+ nnoremap <Space>gr :action ChangesView.Revert<CR>
+ nnoremap <Space>gdn :action NextDiff<CR>
+" java命令相关快捷键
+ nnoremap <Space>jf :action ReformatCode<CR>
+ nnoremap <Space>jr :action Run<CR>
+ nnoremap <Space>jg :action Generate<CR> 
+ nnoremap <space>js :action Stop<CR>
+ nnoremap <Space>jd :action Debug<CR>
+ nnoremap <Space>ja :action Annotate<CR>
+ nnoremap <Space>jh :action CallHierarchy<CR>
+ nnoremap <Space>jen :action GotoNextError<CR>
+
+" 工程命令相关快捷键
+ nnoremap <Space>pco :action Runner.CloseOtherViews<CR>
+ nnoremap <Space>pca :action Runner.CloseAllViews<CR>
+" nnoremap <Space><++> :action <++><CR>
+" nnoremap <Space><++> :action <++><CR>
+" nnoremap <Space><++> :action <++><CR>
+" nnoremap <Space><++> :action <++><CR>
+" nnoremap <Space><++> :action <++><CR>
+" nnoremap <Space><++> :action <++><CR>
+"Quick noremal mode
+
+" built in search looks better

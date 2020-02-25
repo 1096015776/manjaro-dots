@@ -1,0 +1,8 @@
+[2020-01-28 15:54:16.077] [sharedprocess] [info] main {"machineId":"87dfb7bb6cf91eb5ceddfe09b5a88cde0e81353fcb8f00c5776865bd37e001e1","windowId":2}
+[2020-01-28 15:54:33.935] [sharedprocess] [info] Installing extension: shengchen.vscode-leetcode
+[2020-01-28 15:54:45.464] [sharedprocess] [info] Downloaded extension: shengchen.vscode-leetcode /tmp/4eacd582-71b0-4df5-b3a4-655e73e4b38f
+[2020-01-28 15:54:52.316] [sharedprocess] [info] Extracted extension to /home/fx/.vscode-oss/extensions/.shengchen.vscode-leetcode-0.16.0: shengchen.vscode-leetcode
+[2020-01-28 15:54:52.317] [sharedprocess] [info] Renamed to /home/fx/.vscode-oss/extensions/shengchen.vscode-leetcode-0.16.0
+[2020-01-28 15:54:52.321] [sharedprocess] [info] Installation completed. shengchen.vscode-leetcode
+[2020-01-28 15:54:52.339] [sharedprocess] [info] Extensions installed successfully: shengchen.vscode-leetcode
+[2020-01-28 15:54:56.075] [sharedprocess] [info] Starting to clean up unused language packs.
